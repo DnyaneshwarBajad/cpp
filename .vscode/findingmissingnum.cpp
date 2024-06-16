@@ -10,7 +10,7 @@ using namespace std;
 // } Driver Code Ends
 // User function template for C++
 
-class Solution{
+class Solution{ 
     int i;
   public:
     int missingNumber(vector<int>& array, int n) {
